@@ -1,0 +1,3 @@
+<?
+$MESS ['ABOUT'] = "About company";
+?>
